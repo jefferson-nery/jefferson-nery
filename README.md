@@ -1,16 +1,23 @@
-## Hi there 👋
+# Olá! Eu sou Jefferson N Martins 👋
 
-<!--
-**jefferson-nery/jefferson-nery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um desenvolvedor em formação apaixonado por Back-end e aprimorando minhas habilidades em linguagens de alta performance, como Python e Java.
 
-Here are some ideas to get you started:
+## 🛠️ Skills e Foco de Estudo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Categoria | Habilidades | Status |
+| :--- | :--- | :--- |
+| **Back-end** | Python, Java | Em estudo aprofundado |
+| **Front-end** | HTML, CSS, JavaScript | Conhecimento básico |
+| **Controle de Versão**| Git, GitHub | Essencial para projetos |
+| **Outros Interesses**| Inteligência Artificial (IA) e Machine Learning (ML) | Futuro Foco |
+
+## 🎓 Educação
+
+* ** Faculdade de Informática e Administração Paulista (FIAP)** *
+* ** Análise e Desenvolvimento de Sistemas ** *
+
+---
+
+## 🔗 Conecte-se Comigo
+
+* **E-mail:** jefferson.nery.me@gmail.com
