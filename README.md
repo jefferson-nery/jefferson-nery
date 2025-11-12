@@ -1,1 +1,1 @@
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VSCode Badge" />
+  # To-Do List API com Python e FastAPI).
