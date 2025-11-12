@@ -10,7 +10,7 @@ Bem-vindo ao meu portfólio. Aqui vou mostrar projetos, skills e contatos.
 - Email: seu@email.com
 # Portfólio - Jefferson
 
-👋 Olá! Eu sou o Jefferson, analista e desenvolvedor de sistemas.  
+👋 Olá! Eu sou o Jefferson Nery , analista e desenvolvedor de sistemas.  
 Aqui você encontra meus projetos, estudos e experiências na área de tecnologia.
 
 ## 🚀 Habilidades
