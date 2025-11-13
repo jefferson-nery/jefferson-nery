@@ -20,14 +20,14 @@
 -->
 <h4 align="center">Construindo a arquitetura Back-end do futuro, um commit de cada vez. 🚀</h4>
 <br>
-<h3 align="center">🛠️ Skills e Foco de Estudo</h3>
+<h3 align=>🛠️ Skills e Foco de Estudo</h3>
 
 | Categoria | Habilidades e Tecnologias |  Status |
 | :--- | :--- | :--- |
 | **Back-end** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height="40" alt="Python"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="45" alt="Java" /> &nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" height="40" alt="Fastapi" />| Em estudo aprofundado |
 | **Banco de Dados** | &nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="45" alt="SQL"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" height="40" alt="Postgresql"/>| Base de conhecimento |
 | **Front-end** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" height="50" alt="HTML5" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="45" alt="CSS3"/>&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="45" alt="JavaScript" /> | Conhecimento básico |
-| **Ferramentas** |<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" height="55" alt="Git"/>&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" height="45" alt="VS Code" />| Essencial para projetos |
+| **Ferramentas** |<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" height="55" alt="Git" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" height="45" alt="VS Code" />| Essencial para projetos |
 
 ## 🎓 Educação
 
