@@ -3,7 +3,7 @@
 **`Sou um desenvolvedor em formação apaixonado por Back-end e aprimorando minhas habilidades em linguagens de alta performance, como Python e Java.`**
 
 <p align="left"> 
-     <img alt="EMAIL" title="Subscribe to my YouTube channel" src=    https://camo.githubusercontent.com/21be80faadea2c5…d61696c2d4536314232332e7376673f6c6f676f3d6d61696c/></a> 
+     <img alt="EMAIL" title="Subscribe to my YouTube channel" src=<img src="https://camo.githubusercontent.com/21be80faadea2c5f54064fd21cc93c96aaa936a900765d9869a2119f5ebd5b7b/68747470733a2f2f637573746f6d2d69636f6e2d6261646765732e64656d6f6c61622e636f6d2f62616467652f4d61696c2d4536314232332e7376673f6c6f676f3d6d61696c" alt="mail" data-canonical-src="https://custom-icon-badges.demolab.com/badge/Mail-E61B23.svg?logo=mail" style="max-width: 100%;">/></a> 
     
 </p>
 
