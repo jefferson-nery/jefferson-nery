@@ -40,6 +40,15 @@ FIAP - Faculdade de Informática e Administração Paulista
 
 * **E-mail:** jefferson.nery.me@gmail.com
 
+## 🎓 Educação
+
+<p>
+  <img src="https://img.shields.io/badge/FIAP-000000?style=for-the-badge&logoColor=white" height="30" alt="FIAP" />
+</p>
+
+### **FIAP - Faculdade de Informática e Administração Paulista**
+* **Curso:** Análise e Desenvolvimento de Sistemas
+* **Status:**  Cursando / Previsão de Conclusão: 12/2026 
 
 
 
