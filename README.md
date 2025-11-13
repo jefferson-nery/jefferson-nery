@@ -3,7 +3,7 @@
 **`Sou um desenvolvedor em formação apaixonado por Back-end e aprimorando minhas habilidades em linguagens de alta performance, como Python e Java.`**
 
 <p align="left">
-    <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">>
+    <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
 </p>
 
 ## 🛠️ Skills e Foco de Estudo
