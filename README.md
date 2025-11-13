@@ -17,7 +17,9 @@
         />
     </a>
 </p>
+
 ---
+
 
 ## 🛠️ Skills e Foco de Estudo
 
