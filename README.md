@@ -49,7 +49,7 @@
     alt="CSS"
     title="css"
     width="30px"
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
 <img 
     aliing="left"
@@ -70,8 +70,44 @@
 
 | Categoria | Habilidades | Status |
 | :--- | :--- | :--- |
-| **Back-end** | Python, Java | Em estudo aprofundado |
-| **Front-end** | HTML, CSS, JavaScript | Conhecimento básico |
+| **Back-end**|
+
+<img 
+    aling="left"
+    alt="PYTHON"
+    title="python"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"/><img
+    aliing="left"
+    alt="JAVA"
+    title="java"
+    width="30px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />           
+    Em estudo aprofundado
+
+---
+
+ **Front-end**  <img 
+    aliing="left"
+    alt="HTML"
+    title="html"
+    width="30px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"    
+/> <img
+    aliing="left"
+    alt="CSS"
+    title="css"
+    width="30px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>  <img 
+    aliing="left"
+    alt="JavaScript"
+    title="Java"
+    width="30px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+
+ **Conhecimento básico**|
 | **Controle de Versão**| Git, GitHub | Essencial para projetos |
 | **Outros Interesses**| Inteligência Artificial (IA) e Machine Learning (ML) | Futuro Foco |
 
