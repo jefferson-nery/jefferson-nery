@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Olá! Eu sou Jefferson N Martins 
+# 👩🏻‍💻 Olá! Eu sou Jefferson  
 
 **Sou um desenvolvedor em formação apaixonado por Back-end e aprimorando minhas habilidades em linguagens de alta performance, como Python e Java**
 <!--
