@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Olá! Eu sou Jefferson N Martins 
 
-**`Sou um desenvolvedor em formação apaixonado por Back-end e aprimorando minhas habilidades em linguagens de alta performance, como Python e Java.`**
+**Sou um desenvolvedor em formação apaixonado por Back-end e aprimorando minhas habilidades em linguagens de alta performance, como Python e Java**
 
 <p align="left"> 
     <a href="https://github.com/jefferson-nery?tab=repositories&sort=stargazers">
@@ -19,63 +19,15 @@
 </p>
 
 ---
-### 🤖 Linguagens e Tecnologias
-
-<img 
-    aling="left"
-    alt="PYTHON"
-    title="python"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" 
-/>
-<img
-    aliing="left"
-    alt="JAVA"
-    title="java"
-    width="30px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
- />
-
- <img 
-    aliing="left"
-    alt="HTML"
-    title="html"
-    width="30px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"    
-/>
-<img
-    aliing="left"
-    alt="CSS"
-    title="css"
-    width="30px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    aliing="left"
-    alt="JavaScript"
-    title="Java"
-    width="30px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-          
-          
-
-      
-          
-
-          
 
 ## 🛠️ Skills e Foco de Estudo
 
-| Categoria | Habilidades | Status |
-| :--- | :--- | :--- |
-| **Back-end**|
+**Back-end**
 
-<img 
-    aling="left"
-    alt="PYTHON"
-    title="python"
+ <img 
+     aling="left"
+     alt="PYTHON"
+     title="python"
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"/><img
@@ -86,9 +38,13 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />           
     Em estudo aprofundado
 
+
 ---
 
- **Front-end**  <img 
+
+ **Front-end** 
+
+ <img 
     aliing="left"
     alt="HTML"
     title="html"
@@ -105,19 +61,29 @@
     alt="JavaScript"
     title="Java"
     width="30px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+    />
 
- **Conhecimento básico**|
+ Conhecimento básico
+
 | **Controle de Versão**| Git, GitHub | Essencial para projetos |
 | **Outros Interesses**| Inteligência Artificial (IA) e Machine Learning (ML) | Futuro Foco |
 
 ## 🎓 Educação
 
-* **[Nome da Sua Faculdade/Curso]** — [Se for o caso, coloque o ano de início/previsão de conclusão]
-* **[Nome de Cursos/Bootcamps Importantes que você fez ou está fazendo]** — [Plataforma ou Instituição]
+* **Nome da Sua Faculdade**  
+FIAP - Faculdade de Informática e Administração Paulista
+
+ * *Curso :* Análise e Desenvolvimento de Sistemas 
+
+
 
 ---
 
 ## 🔗 Conecte-se Comigo
 
-* **E-mail:** [Seu e-mail profissional]
+* **E-mail:** jefferson.nery.me@gmail.com
+
+
+
+
