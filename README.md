@@ -1,7 +1,7 @@
 # 👩🏻‍💻 Olá! Eu sou Jefferson N Martins 
 
 **Sou um desenvolvedor em formação apaixonado por Back-end e aprimorando minhas habilidades em linguagens de alta performance, como Python e Java**
-
+<!--
 <p align="left"> 
     <a href="https://github.com/jefferson-nery?tab=repositories&sort=stargazers">
         <img 
@@ -17,24 +17,23 @@
         />
     </a>
 </p>
+-->
 
----
 
 ## 🛠️ Skills e Foco de Estudo
-
 **Back-end**
 
  <img 
      aling="left"
      alt="PYTHON"
      title="python"
-    width="30px"
+    width="40px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"/><img
     aliing="left"
     alt="JAVA"
     title="java"
-    width="30px"
+    width="40px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />           
     Em estudo aprofundado
 
@@ -50,13 +49,13 @@
     title="html"
     width="30px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"    
-/> <img
+/>    <img
     aliing="left"
     alt="CSS"
     title="css"
     width="30px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>  <img 
+/>    <img 
     aliing="left"
     alt="JavaScript"
     title="Java"
@@ -66,8 +65,10 @@
 
  Conhecimento básico
 
-| **Controle de Versão**| Git, GitHub | Essencial para projetos |
-| **Outros Interesses**| Inteligência Artificial (IA) e Machine Learning (ML) | Futuro Foco |
+ ---
+
+**Controle de Versão**| Git, GitHub | Essencial para projetos |br
+**Outros Interesses**| Inteligência Artificial (IA) e Machine Learning (ML) | Futuro Foco |
 
 ## 🎓 Educação
 
@@ -75,10 +76,6 @@
 FIAP - Faculdade de Informática e Administração Paulista
 
  * *Curso :* Análise e Desenvolvimento de Sistemas 
-
-
-
----
 
 ## 🔗 Conecte-se Comigo
 
