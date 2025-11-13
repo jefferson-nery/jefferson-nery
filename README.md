@@ -3,7 +3,7 @@
 **`Sou um desenvolvedor em formação apaixonado por Back-end e aprimorando minhas habilidades em linguagens de alta performance, como Python e Java.`**
 
 <p align
-         src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
+         src="https://custom-icon-badges.demolab.com/badge/Mail-E61B23.svg?logo=mail"/></a> 
       <a href="https://github.com/ForrestKnight?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
