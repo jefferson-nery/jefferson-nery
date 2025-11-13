@@ -19,56 +19,15 @@
 </p>
 -->
 
+<br>
+<h3 align="center">🛠️ Skills e Foco de Estudo</h3>
 
-## 🛠️ Skills e Foco de Estudo
-**Back-end**
-
- <img 
-     aling="left"
-     alt="PYTHON"
-     title="python"
-    width="40px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"/><img
-    aliing="left"
-    alt="JAVA"
-    title="java"
-    width="40px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />           
-    Em estudo aprofundado
-
-
----
-
-
- **Front-end** 
-
- <img 
-    aliing="left"
-    alt="HTML"
-    title="html"
-    width="30px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"    
-/>    <img
-    aliing="left"
-    alt="CSS"
-    title="css"
-    width="30px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>    <img 
-    aliing="left"
-    alt="JavaScript"
-    title="Java"
-    width="30px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-    />
-
- Conhecimento básico
-
- ---
-
-**Controle de Versão**| Git, GitHub | Essencial para projetos |br
-**Outros Interesses**| Inteligência Artificial (IA) e Machine Learning (ML) | Futuro Foco |
+| Categoria | Habilidades e Tecnologias | Status |
+| :--- | :--- | :--- |
+| **Back-end** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height="40" alt="Python" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="40" alt="Java" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" height="40" alt="Fastapi" />| Em estudo aprofundado |
+| **Banco de Dados** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="40" alt="SQL"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" height="40" alt="Postgresql"/>| Base de conhecimento |
+| **Front-end** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" height="40" alt="HTML5" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40" alt="CSS3" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" /> | Conhecimento básico |
+| **Ferramentas** |<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" height="50" alt="Git" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" height="45" alt="VS Code" />| Essencial para projetos |
 
 ## 🎓 Educação
 
