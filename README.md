@@ -3,7 +3,7 @@
 **`Sou um desenvolvedor em formação apaixonado por Back-end e aprimorando minhas habilidades em linguagens de alta performance, como Python e Java.`**
 
 <p align="left"> 
-     <img alt="EMAIL" title="Subscribe to my YouTube channel" src=![Email](https://custom-icon-badges.demolab.com/badge/Mail-E61B23.svg?logo=mail)/></a> 
+     <img alt="EMAIL" title="Subscribe to my YouTube channel" src=    https://camo.githubusercontent.com/21be80faadea2c5…d61696c2d4536314232332e7376673f6c6f676f3d6d61696c/></a> 
     
 </p>
 
