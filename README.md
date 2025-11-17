@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Olá! Eu sou Jefferson  
 
-**Sou um desenvolvedor em formação apaixonado por Back-end e aprimorando minhas habilidades em linguagens de alta performance, como Python e Java**
+**Sou um desenvolvedor em formação, apaixonado por Back-end e aprimorando minhas habilidades em linguagens de alta performance, como Python e Java**
 <!--
 <p align="left"> 
     <a href="https://github.com/jefferson-nery?tab=repositories&sort=stargazers">
